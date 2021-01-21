@@ -1,0 +1,311 @@
+/* screen - hero */
+
+.arvo-normal-iceberg-18px {
+    color: var(--iceberg);
+    font-family: 'Arvo', Helvetica, Arial, serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  .arvo-normal-white-18px {
+    color: var(--white);
+    font-family: 'Arvo', Helvetica, Arial, serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  .hero {
+    background-color: var(--iceberg);
+    height: 2353px;
+    overflow: hidden;
+    overflow-x: hidden;
+    position: relative;
+    width: 1440px;
+  }
+  .hero .contact-C61RwL {
+    background-color: transparent;
+    height: auto;
+    left: 1321px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    position: absolute;
+    text-align: left;
+    top: 39px;
+    width: auto;
+  }
+  .hero .creative-g-on-in-uiux-C61RwL {
+    background-color: transparent;
+    color: var(--white);
+    font-family: 'Arvo', Helvetica, Arial, serif;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    height: auto;
+    left: 62px;
+    letter-spacing: 0.00px;
+    line-height: 40px;
+    position: absolute;
+    text-align: left;
+    top: 922px;
+    width: 673px;
+  }
+  .hero .entypoold-phone-C61RwL {
+    background-color: transparent;
+    height: 48px;
+    left: 1241px;
+    overflow: hidden;
+    position: absolute;
+    top: 2278px;
+    width: 54px;
+  }
+  .hero .home-C61RwL {
+    background-color: transparent;
+    height: auto;
+    left: 836px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    position: absolute;
+    text-align: left;
+    top: 39px;
+    width: auto;
+  }
+  .hero .home-VMr6Om {
+    background-color: transparent;
+    height: auto;
+    left: 45px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 2293px;
+    width: auto;
+  }
+  .hero .im-a-uiux-designer-C61RwL {
+    background-color: transparent;
+    color: var(--black);
+    font-family: 'Arvo', Helvetica, Arial, serif;
+    font-size: 39px;
+    font-style: normal;
+    font-weight: 400;
+    height: auto;
+    left: 353px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    position: absolute;
+    text-align: left;
+    top: 525px;
+    width: 401px;
+  }
+  .hero .mdiemail-C61RwL {
+    background-color: transparent;
+    height: 55px;
+    left: 1150px;
+    overflow: hidden;
+    position: absolute;
+    top: 2274px;
+    width: 62px;
+  }
+  .hero .my-name-is-nie-jensen-C61RwL {
+    background-color: transparent;
+    color: var(--black);
+    font-family: 'Arvo', Helvetica, Arial, serif;
+    font-size: 47.5px;
+    font-style: normal;
+    font-weight: 400;
+    height: auto;
+    left: 75px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    position: absolute;
+    text-align: left;
+    top: 475px;
+    width: 682px;
+  }
+  .hero .my-work-C61RwL {
+    background-color: transparent;
+    height: auto;
+    left: 1151px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    position: absolute;
+    text-align: left;
+    top: 39px;
+    width: auto;
+  }
+  .hero .my-work-VMr6Om {
+    background-color: transparent;
+    height: auto;
+    left: 356px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 2293px;
+    width: auto;
+  }
+  .hero .portfolio-C61RwL {
+    background-color: transparent;
+    color: var(--iceberg);
+    font-family: 'Arvo', Helvetica, Arial, serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    height: auto;
+    left: 66px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    position: absolute;
+    text-align: left;
+    top: 28px;
+    width: auto;
+  }
+  .hero .rectangle-1-C61RwL {
+    background-color: rgba(1,1,3,1.0);
+    height: 99px;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 1440px;
+  }
+  .hero .rectangle-16-C61RwL {
+    background-color: rgba(97,95,95,1.0);
+    height: 617px;
+    left: 2px;
+    position: absolute;
+    top: 820px;
+    width: 842px;
+  }
+  .hero .rectangle-3-C61RwL {
+    background-color: rgba(1,1,3,1.0);
+    border: 1px solid var(--black);
+    height: 240px;
+    left: -1px;
+    position: absolute;
+    top: 99px;
+    width: 1440px;
+  }
+  .hero .rectangle-4-C61RwL {
+    background-color: rgba(111,203,218,0.5);
+    height: 68px;
+    left: 338px;
+    position: absolute;
+    top: 512px;
+    width: 418px;
+  }
+  .hero .rectangle-5-C61RwL {
+    background-color: rgba(111,203,218,0.5);
+    height: 148px;
+    left: -249px;
+    position: absolute;
+    top: 717px;
+    width: 811px;
+  }
+  .hero .rectangle-9-C61RwL {
+    background-color: var(--black);
+    height: 100px;
+    left: 1px;
+    position: absolute;
+    top: 2253px;
+    width: 1440px;
+  }
+  .hero .resume-C61RwL {
+    background-color: transparent;
+    height: auto;
+    left: 985px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    position: absolute;
+    text-align: left;
+    top: 39px;
+    width: auto;
+  }
+  .hero .resume-VMr6Om {
+    background-color: transparent;
+    height: auto;
+    left: 195px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 2293px;
+    width: auto;
+  }
+  .hero .screen-sho-6-at-610-1-C61RwL {
+    background-color: transparent;
+    height: 720px;
+    left: 727px;
+    position: absolute;
+    top: 339px;
+    width: 721px;
+  }
+  .hero .this-is-me-C61RwL {
+    background-color: transparent;
+    color: var(--black);
+    font-family: 'Arvo', Helvetica, Arial, serif;
+    font-size: 105.6px;
+    font-style: normal;
+    font-weight: 400;
+    height: auto;
+    left: 35px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    position: absolute;
+    text-align: left;
+    top: 717px;
+    width: 530px;
+  }
+  .hero .uilinstagram-alt-C61RwL {
+    background-color: transparent;
+    height: 48px;
+    left: 1074px;
+    overflow: hidden;
+    position: absolute;
+    top: 2277px;
+    width: 47px;
+  }
+  .hero .vector-3SuDvW {
+    background-color: transparent;
+    height: 40px;
+    left: -1px;
+    position: absolute;
+    top: 4px;
+    width: 55px;
+  }
+  .hero .vector-Tx30cR {
+    background-color: transparent;
+    height: 40px;
+    left: 3px;
+    position: absolute;
+    top: 4px;
+    width: 41px;
+  }
+  .hero .vector-dpU4XE {
+    background-color: transparent;
+    height: 38px;
+    left: 5px;
+    position: absolute;
+    top: 9px;
+    width: 52px;
+  }
+  .hero .white-s-jlogo-C61RwL {
+    background-color: transparent;
+    height: 239px;
+    left: 226px;
+    position: absolute;
+    top: 69px;
+    width: 987px;
+  }
+  .hero .x1200px-med-monogram-1-C61RwL {
+    background-color: transparent;
+    height: 57px;
+    left: 1315px;
+    position: absolute;
+    top: 2274px;
+    width: 71px;
+  }
+  :root {
+    --black: rgba(0,0,0,1.0);
+    --iceberg: rgba(222,241,246,1.0);
+    --white: rgba(255,255,255,1.0);
+  }
+  
